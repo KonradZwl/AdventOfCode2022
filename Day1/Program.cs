@@ -14,7 +14,6 @@ internal class Program
     {
         int maxCalories = 0;
         int groupTotalCalories = 0;
-            
         foreach (var line in input)
         {
             if (line == "")
